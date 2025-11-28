@@ -30,7 +30,7 @@ angular-products-full/
 └── tsconfig.json
 ```
 
----
+
 
 ## **Installation**
 
