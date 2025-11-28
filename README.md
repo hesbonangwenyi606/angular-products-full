@@ -63,14 +63,12 @@ The app will automatically reload if you change any of the source files.
 * Event Handling
 
 ## **Future Improvements**
-
 * Implement routing to multiple pages
 * Add API calls to fetch real product data
 * Add edit/update functionality
 * Add search/filter functionality
 * Improve UI design using Angular Material or Tailwind CSS
 
----
 
 ## **License**
 
