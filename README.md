@@ -62,8 +62,6 @@ The app will automatically reload if you change any of the source files.
 * Two-way Binding
 * Event Handling
 
----
-
 ## **Future Improvements**
 
 * Implement routing to multiple pages
