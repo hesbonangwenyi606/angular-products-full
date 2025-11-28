@@ -4,8 +4,8 @@ import { FormsModule } from '@angular/forms';    // for ngModel
 
 @Component({
   selector: 'app-products',
-  standalone: true,            // MUST be standalone
-  imports: [CommonModule, FormsModule], // <-- important
+  standalone: true,
+  imports: [CommonModule, FormsModule],
   templateUrl: './products.component.html',
   styleUrls: ['./products.component.css']
 })
