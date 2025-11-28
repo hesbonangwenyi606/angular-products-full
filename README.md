@@ -39,9 +39,6 @@ angular-products-full/
 
 3. Install dependencies:
    npm install
-   ```
-
----
 
 ## **Running the Project**
 
