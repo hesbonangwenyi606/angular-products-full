@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { CommonModule } from '@angular/common'; // for *ngFor
-import { FormsModule } from '@angular/forms';   // for ngModel
+import { CommonModule } from '@angular/common'; // For *ngFor
+import { FormsModule } from '@angular/forms';   // For ngModel
 
 @Component({
   selector: 'app-products',
