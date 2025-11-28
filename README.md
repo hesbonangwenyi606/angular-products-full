@@ -42,7 +42,6 @@ angular-products-full/
 
 ## **Running the Project**
 Start the development server:
-
 ng serve
 ```
 
