@@ -32,7 +32,6 @@ angular-products-full/
 ## **Installation**
 1. Make sure you have **Node.js** and **Angular CLI** installed.
 
-   ```bash
    npm install -g @angular/cli
    ```
 
