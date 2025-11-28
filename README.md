@@ -55,7 +55,6 @@ The app will automatically reload if you change any of the source files.
 ---
 
 ## **Technologies Used**
-
 * Angular 16
 * TypeScript
 * HTML & CSS
