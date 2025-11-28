@@ -45,11 +45,9 @@ Start the development server:
 ng serve
 Open your browser and go to:
 http://localhost:4200/
-```
 
 The app will automatically reload if you change any of the source files.
 
----
 
 ## **Usage**
 
