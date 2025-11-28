@@ -1,12 +1,14 @@
-<h2>Products</h2>
-
 <div>
+  <h2>Products</h2>
+  
   <input [(ngModel)]="newProductName" placeholder="Product name">
-  <input [(ngModel)]="newProductPrice" type="number" placeholder="Price">
+  <input [(ngModel)]="newProductPrice" type="number" placeholder="Product price">
   <button (click)="addProduct()">Add Product</button>
-</div>
 
-<div *ngFor="let product of products; let i = index" class="product-card">
-  {{ product.name }} - {{ product.price }}
-  <button (click)="deleteProduct(i)">Delete</button>
+  <ul>
+    <li *ngFor="let product of products; let i = index">
+      {{ product.name }} - ${{ product.price }}
+      <button (click)="deleteProduct(i)">Delete</button>
+    </li>
+  </ul>
 </div>
