@@ -11,8 +11,6 @@ A simple Angular application to manage products. This project demonstrates the b
 * Use Angular Service to fetch initial data
 * Basic CSS styling for a clean layout
 
-
-
 ## **Project Structure**
 
 ```
