@@ -41,7 +41,6 @@ angular-products-full/
    npm install
 
 ## **Running the Project**
-
 Start the development server:
 
 ```bash
