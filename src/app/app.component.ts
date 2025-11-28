@@ -4,7 +4,7 @@ import { ProductsComponent } from './products/products.component';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [ProductsComponent],  // import the ProductsComponent
+  imports: [ProductsComponent],
   template: '<app-products></app-products>',
 })
 export class AppComponent {}
