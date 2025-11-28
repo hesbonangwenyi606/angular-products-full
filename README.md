@@ -1,5 +1,4 @@
 # Angular Products App
-
 A simple Angular application to manage products. This project demonstrates the basics of Angular, including components, services, two-way binding, event handling, and basic styling.
 
 ## **Features**
