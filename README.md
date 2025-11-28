@@ -69,6 +69,5 @@ The app will automatically reload if you change any of the source files.
 * Add search/filter functionality
 * Improve UI design using Angular Material or Tailwind CSS
 
-
 ## **License**
 This project is open source and available under the MIT License.
