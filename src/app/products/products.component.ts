@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
-import { CommonModule } from '@angular/common'; // needed for *ngFor
-import { FormsModule } from '@angular/forms';   // needed for ngModel
+import { CommonModule } from '@angular/common';
+import { FormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-products',
-  standalone: true,        // IMPORTANT for Angular 16
+  standalone: true,
   imports: [CommonModule, FormsModule],
   templateUrl: './products.component.html',
   styleUrls: ['./products.component.css']
