@@ -29,7 +29,6 @@ angular-products-full/
 ├── package.json
 └── tsconfig.json
 
-
 ## **Installation**
 
 1. Make sure you have **Node.js** and **Angular CLI** installed.
