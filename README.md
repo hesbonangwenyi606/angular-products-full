@@ -35,7 +35,7 @@ angular-products-full/
 
 2. Clone the repository:
 
-   ```bash
+   
    git clone git@github.com:hesbonangwenyi606/angular-products-full.git
    cd angular-products-full
    ```
