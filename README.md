@@ -39,7 +39,7 @@ angular-products-full/
 
 3. Install dependencies:
 
-   ```bash
+   
    npm install
    ```
 
