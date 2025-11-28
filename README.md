@@ -34,8 +34,6 @@ angular-products-full/
    npm install -g @angular/cli
 
 2. Clone the repository:
-
-   
    git clone git@github.com:hesbonangwenyi606/angular-products-full.git
    cd angular-products-full
    ```
