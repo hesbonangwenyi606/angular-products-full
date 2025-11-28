@@ -38,8 +38,6 @@ angular-products-full/
    cd angular-products-full
 
 3. Install dependencies:
-
-   
    npm install
    ```
 
