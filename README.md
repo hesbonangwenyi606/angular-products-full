@@ -36,7 +36,6 @@ angular-products-full/
 2. Clone the repository:
    git clone git@github.com:hesbonangwenyi606/angular-products-full.git
    cd angular-products-full
-   ```
 
 3. Install dependencies:
 
