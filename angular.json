@@ -9,5 +9,8 @@
       "prefix": "app",
       "architect": {}
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
