@@ -12,8 +12,6 @@ A simple Angular application to manage products. This project demonstrates the b
 * Basic CSS styling for a clean layout
 
 ## **Project Structure**
-
-```
 angular-products-full/
 ├── src/
 │   ├── app/
