@@ -1,12 +1,11 @@
-// src/app/products/products.component.ts
 import { Component } from '@angular/core';
-import { FormsModule } from '@angular/forms';
-import { NgFor } from '@angular/common';
+import { CommonModule } from '@angular/common'; // for *ngFor
+import { FormsModule } from '@angular/forms';   // for [(ngModel)]
 
 @Component({
   selector: 'app-products',
   standalone: true,
-  imports: [FormsModule, NgFor],
+  imports: [CommonModule, FormsModule], // <-- MUST include these
   templateUrl: './products.component.html',
   styleUrls: ['./products.component.css']
 })
