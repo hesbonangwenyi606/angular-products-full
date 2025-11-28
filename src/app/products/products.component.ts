@@ -1,18 +1,18 @@
 import { Component } from '@angular/core';
-import { CommonModule } from '@angular/common'; // for *ngFor
-import { FormsModule } from '@angular/forms';   // for [(ngModel)]
+import { CommonModule } from '@angular/common';  // for *ngFor
+import { FormsModule } from '@angular/forms';    // for ngModel
 
 @Component({
   selector: 'app-products',
-  standalone: true,
-  imports: [CommonModule, FormsModule], // <-- MUST include these
+  standalone: true,            // MUST be standalone
+  imports: [CommonModule, FormsModule], // <-- important
   templateUrl: './products.component.html',
   styleUrls: ['./products.component.css']
 })
 export class ProductsComponent {
   products: { name: string; price: number }[] = [
     { name: 'Apple', price: 100 },
-    { name: 'Banana', price: 50 },
+    { name: 'Banana', price: 50 }
   ];
 
   newProductName = '';

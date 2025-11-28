@@ -3,8 +3,8 @@ import { ProductsComponent } from './products/products.component';
 
 @Component({
   selector: 'app-root',
-  standalone: true,
-  imports: [ProductsComponent], // import your ProductsComponent
+  standalone: true,          // MUST be standalone
+  imports: [ProductsComponent],  // import your ProductsComponent
   template: '<app-products></app-products>',
 })
 export class AppComponent {}
