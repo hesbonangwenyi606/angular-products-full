@@ -5,7 +5,6 @@ A simple Angular application to manage products. This project demonstrates the b
 ---
 
 ## **Features**
-
 * Display a list of products
 * Add a new product with a form
 * Delete a product from the list
