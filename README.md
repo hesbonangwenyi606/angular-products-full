@@ -71,5 +71,4 @@ The app will automatically reload if you change any of the source files.
 
 
 ## **License**
-
 This project is open source and available under the MIT License.
