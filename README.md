@@ -28,8 +28,6 @@ angular-products-full/
 ├── angular.json
 ├── package.json
 └── tsconfig.json
-```
-
 
 
 ## **Installation**
